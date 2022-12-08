@@ -7,6 +7,10 @@
     text-decoration: none;
   }
 
+  a{
+    text-decoration: none;
+  }
+
   body {
   font-size: 100%;
   background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
@@ -169,4 +173,12 @@ margin: 80px;
 }
 
 
-
+.embreve{
+  width: 800px;
+  text-align: center;
+  display: flex;
+  font-family: 'Sarala', sans-serif;
+  color: #ECD6C4;
+  margin-top: 300px;
+  margin-left: 700px;
+}
