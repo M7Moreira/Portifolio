@@ -26,6 +26,7 @@
 
   .navbar {
     display: flex;
+    float: right;
     gap: 40px;
   }
 
@@ -182,3 +183,21 @@ margin: 80px;
   margin-top: 300px;
   margin-left: 700px;
 }
+
+.socialmedia {
+  display:flex;
+  width: 40px;
+  float: left;
+  
+
+
+}
+
+.iconemedia {
+  display:flex;
+  height: 50px;
+  float:left ;
+
+}
+
+ 
